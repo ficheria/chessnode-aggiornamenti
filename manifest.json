@@ -1,9 +1,9 @@
 {
- "versione": "0.10.2",
+ "versione": "0.10.3",
  "nativoMin": 14,
- "url": "https://ficheria.github.io/chessnode-aggiornamenti/0.10.2/web-0.10.2.zip",
- "sha256": "3588144d4647e699a4faadadf405f3e36d77ab8b5a3ec7d9bcf1d1c66f26349b",
- "note": "Stessa versione dell'APK 0.10.2",
- "data": "2026-11-15 11:00",
- "firma": "F0G/cG5yE1ufwWKwtlnOlbkNSq8VpEOU/m6hyKvP5tVJ0jpfLXcc0pnGALp3w2ksXaSB1Vq/GP/1rXyZ1iIc9w=="
+ "url": "https://ficheria.github.io/chessnode-aggiornamenti/0.10.3/web-0.10.3.zip",
+ "sha256": "73e7976d95dc8ad8eacfe97725ed45c270356c84027570a657d3e528c069c7e0",
+ "note": "Posizione personalizzata, 6 correzioni, niente più pagina Sveglie e promemoria",
+ "data": "2026-11-15 19:08",
+ "firma": "i+FPVJ9hdrGHnRbNu13GhCP2WujsCQOKTqr1AAY9jv9zS3BmTe0SV1RZzT4X9Waro+NSp0BhOoOZ9GpDbks3yg=="
 }
